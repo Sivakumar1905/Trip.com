@@ -1,5 +1,3 @@
-// Simple client-side handlers written clearly for college evaluation
-
 const bookingStorageKey = 'bookingSearchHistory';
 const bookingForm = document.getElementById('bookingForm');
 const bookingTableBody = document.querySelector('#bookingTable tbody');
